@@ -1,82 +1,182 @@
-Guest,Company,Event,Month,Lenovo employee,LinkedIn profile,Work Reborn post found?,Post link,Notes
-Jaymes Davis,Kasm Technologies,Gartner Digital Workplace Summit NA - San Diego,2026-03,,,Not found,,"No LinkedIn post surfaced. Podcastrepublic listing shows episode 'AI Can Do Far More Than You're Asking It To | Jaymes Davis, Kasm Technologies' (~Aug 3, 2026)."
-Joshua LeBlanc-Shulman,,Gartner Digital Workplace Summit NA - San Diego,2026-03,,,Not found,,2 queries; no results mention this name at all.
-Christian Lambert,Vivint,Gartner Digital Workplace Summit NA - San Diego,2026-03,,,Not found,,"No LinkedIn post surfaced. Episode listing 'AI Adoption Starts With Fixing Everyday Workflow Friction' (Vivint, ~Aug 7, 2026)."
-Darren H.,,Gartner Digital Workplace Summit NA - San Diego,2026-03,,,Not found,,Surname not given; one attempt only; ambiguous. Audio-only guest.
-Mike (surname not given),,Gartner Digital Workplace Summit NA - San Diego,2026-03,,,Not found,,Surname not given; not searched individually beyond general queries; too ambiguous.
-Tiago Da Costa Silva,Lenovo,Gartner Digital Workplace Summit NA - San Diego; Gartner IT Symposium/Xpo NA - Orlando,2026-03; 2026-10,Yes,,Not found,,No LinkedIn post surfaced. Lenovo Work Reborn series page has caption 'Tiago Da Costa Silva in the Lenovo Studio'. Possible aggregator profile 'Tiago D.' (village.ai) unconfirmed.
-Thilo Bayerlander,Lenovo,Gartner Digital Workplace Summit EMEA - London,2026-04,Yes,,Not found,,"No LinkedIn post surfaced. Multiple episodes exist (Jun 2025, Nov 2025, 'AI ROI Needs a Vision' ~Aug 3, 2026); YouTube https://www.youtube.com/watch?v=nUu5AlEgs_s (2025)."
-David Rabin,Lenovo,Gartner Digital Workplace Summit EMEA - London,2026-04,Yes,,Not found,,"No LinkedIn post surfaced. Episode 'AI Experimentation Is Over | David Rabin, Lenovo' (~Aug 2026) on podcastrepublic."
-Rakshit (surname not given),Lenovo,Gartner Digital Workplace Summit EMEA - London; Gartner IT Symposium/Xpo EMEA - Barcelona,2026-04; 2026-11,Yes,https://www.linkedin.com/in/rakshit-ghura-1297786/,Yes,https://www.linkedin.com/in/rakshit-ghura-1297786/,"Assumed = Rakshit Ghura (VP & GM Lenovo DWS). Profile snippet shows a post on simplicity vs personalization in the digital workplace, saying it was explored on a Work Reborn podcast with episode link (paraphrased; no verbatim snippet). Date conflicting in metadata (structured 2026-10-13 vs '3w'/49 days) so left blank. Post URL itself not surfaced."
-Paul Birkett,Ricoh,Gartner Digital Workplace Summit EMEA - London,2026-04,,,Not found,,"No LinkedIn post surfaced. Episode 'AI Governance Is a Business Survival Issue | Paul Birkett, Ricoh' (~Aug 12, 2026)."
-Daniel Langton,Microsoft,Gartner Digital Workplace Summit EMEA - London,2026-04,,,Not found,,"No LinkedIn post surfaced. Episode 'The AI Marathon Requires Workforce Enablement at Scale | Daniel Langton, Microsoft' (Aug 12, 2026)."
-Keith Howell,Ricoh,Gartner Digital Workplace Summit EMEA - London,2026-04,,,Not found,,"No LinkedIn post surfaced. Episode 'AI Adoption Depends on Change Management | Keith Howell, Ricoh' (Aug 17, 2026)."
-Tal Klein,Lakeside Software,Gartner Digital Workplace Summit EMEA - London; Gartner IT Symposium/Xpo EMEA - Barcelona,2026-04; 2026-11,,,Not found,,"3 queries incl. extended; no LinkedIn post surfaced. Episodes: 'The Frictionless Workplace' (May 15, 2026) and 'You Can't Say No to AI Anymore' (~Aug 14, 2026) on buzzsprout."
-Ole Bülow,Egiss,Gartner Digital Workplace Summit EMEA - London,2026-04,,,Not found,,"No LinkedIn post surfaced. Episode 'AI Fitness Will Define the Future Workforce' (Egiss, late Aug 2026)."
-Johan Skånberg,Camfil,Gartner Digital Workplace Summit EMEA - London,2026-04,,,Not found,,No results mention this name.
-Scott Beasley,NFU Mutual,Gartner Digital Workplace Summit EMEA - London,2026-04,,,Not found,,"No LinkedIn post surfaced. Episode 'AI Governance Works When Risk Teams Join the Build | Scott Beasley, NFU Mutual' (Aug 28, 2026)."
-Vikas Singh,CBRE,Gartner Digital Workplace Summit EMEA - London,2026-04,,,Not found,,"No LinkedIn post surfaced. Episode 'AI Literacy Will Define Enterprise Readiness' (CBRE, ~Sep 2, 2026)."
-Ed Metcalf,Absolute Security,Gartner Security & Risk Mgmt Summit - National Harbor MD,2026-06,,https://www.linkedin.com/in/edmetcalf/,Not found,,"Episode 'Endpoint Resilience Starts Below the OS with Ed Metcalf, Absolute Security' (Jun 12, 2026) listed on podcastrepublic.net; no LinkedIn post about it surfaced. Profile snippet shows Absolute posts only."
-Dan (surname not given),Lenovo (likely),Gartner Security & Risk Mgmt Summit - National Harbor MD,2026-06,Yes,,Not found,,No surname; one combined search attempt (Ed Metcalf/Absolute/TraceLock); too ambiguous.
-Monica Grace,Microsoft,Gartner Security & Risk Mgmt Summit - National Harbor MD,2026-06,,,Not found,,"Episode 'AI Guardrails Should Enable Innovation' (Sep 4, 2026) per podcastrepublic.net; no LinkedIn post found."
-Clark Lovrien,Absolute Security,Gartner Security & Risk Mgmt Summit - National Harbor MD,2026-06,,https://www.linkedin.com/in/clark-lovrien-6031561/,Not found,,"Episode 'AI Risk Demands Endpoint Resilience' (Aug 12, 2026) per podcastrepublic.net; profile activity shows Absolute reshares but no Work Reborn post."
-Jai Arun,IBM,Gartner Security & Risk Mgmt Summit - National Harbor MD,2026-06,,https://www.linkedin.com/in/jsarun/,Not found,,"Episode dated Sep 7, 2026 per podcastrepublic.net; LinkedIn activity mentions an unnamed podcast (AI/IBM quantum demo) - not confirmed as Work Reborn."
-Chandan Nuckched,Alera Group,Gartner Security & Risk Mgmt Summit - National Harbor MD,2026-06,,https://www.linkedin.com/in/chandannuckched/,Not found,,"Episode 'The Data Risk Behind Unmanaged AI Adoption' (Sep 9, 2026) per podcastrepublic.net; profile match uncertain (shows HomeServe history)."
-Betty Greenberger,DTCC,Gartner Security & Risk Mgmt Summit - National Harbor MD,2026-06,,https://www.linkedin.com/in/betty-greenberger-134a756/,Not found,,"Episode 'The Human-in-the-Loop Problem Leaders Can't Ignore | Betty, DTCC' (Sep 11, 2026) per podcastrepublic.net; snippets mention her attending 2026 Gartner SRM with DTCC colleagues but no Work Reborn post."
-Karthik Balasubramanian,CoreStack,Gartner Security & Risk Mgmt Summit - National Harbor MD,2026-06,,,Not found,,"Episode 'Agentic AI Starts With Identity and Access' (Sep 14, 2026) per podcastrepublic.net; common name, profile not confirmed."
-Kevin Greene,BeyondTrust,Gartner Security & Risk Mgmt Summit - National Harbor MD,2026-06,,,Not found,,"Episode 'AI Needs Use Cases Before It Delivers ROI' (Sep 18, 2026) per podcastrepublic.net; may appear as Kevin E. Greene on LinkedIn; profile not confirmed."
-Chandan Kochhar,,Gartner Security & Risk Mgmt Summit - National Harbor MD,2026-06,,,Not found,,"Episode 'Start With the Outcome Before Scaling AI' (Sep 21, 2026) per podcastrepublic.net; company unknown."
-Jennifer Swann,,Gartner Security & Risk Mgmt Summit - National Harbor MD,2026-06,,,Not found,,No episode or post surfaced; only unrelated same-name profiles.
-Rich Dedmon,Big River Steel (per profile snippet),Gartner Security & Risk Mgmt Summit - National Harbor MD,2026-06,,https://www.linkedin.com/in/richdedmon/,Not found,,No episode listing or post surfaced; profile is IT/cybersecurity leader.
-Sam Friedman,,Gartner Security & Risk Mgmt Summit - National Harbor MD,2026-06,,,Not found,,No episode or post surfaced.
-David Etim,,Gartner Security & Risk Mgmt Summit - National Harbor MD,2026-06,,,Not found,,No episode or post surfaced.
-Wayne Kool,,Gartner Security & Risk Mgmt Summit - National Harbor MD,2026-06,,,Not found,,2 queries (Work Reborn; Lenovo podcast linkedin): no relevant results
-David Tsang,,Gartner Security & Risk Mgmt Summit - National Harbor MD,2026-06,,,Not found,,2 queries: no relevant results; common name
-Cory Missimore,,Gartner Security & Risk Mgmt Summit - National Harbor MD,2026-06,,,Not found,,2 queries: no relevant results
-Jacob Bushnell,,Gartner Security & Risk Mgmt Summit - National Harbor MD,2026-06,,,Not found,,2 queries: no relevant results
-Blaze Nowikowski,,Gartner Security & Risk Mgmt Summit - National Harbor MD,2026-06,,,Not found,,1 query: no relevant results
-Matt Tower,,Gartner Security & Risk Mgmt Summit - National Harbor MD,2026-06,,,Not found,,1 query: no relevant results
-Pamela Nicolary,,Gartner Security & Risk Mgmt Summit - National Harbor MD,2026-06,,,Not found,,1 query: no relevant results
-Nicholas Morpus,,Gartner Security & Risk Mgmt Summit - National Harbor MD,2026-06,,,Not found,,1 query: no relevant results
-Shemaine Mensah,,Gartner Security & Risk Mgmt Summit - National Harbor MD,2026-06,,,Not found,,1 query: no relevant results
-Kaivalya Gorla,,Gartner Security & Risk Mgmt Summit - National Harbor MD,2026-06,,,Not found,,1 query: no relevant results
-Kufre Akpaidem,,Gartner Security & Risk Mgmt Summit - National Harbor MD,2026-06,,,Not found,,1 query: no relevant results
-Mudit Sinha,Lineaje,Gartner Security & Risk Mgmt Summit - National Harbor MD,2026-06,,https://www.linkedin.com/in/muditsinha01/,Not found,,"3 queries: no LinkedIn post surfaced. Episode confirmed on podcastrepublic.net/podcast/1807393170: 'Security for AI Matters as Much as AI for Security | Mudit Sinha, Lineaje' (dated early July 2026; snippets gave Jul 6 and Jul 8)"
-Saurabh Sharma,Lenovo,Remote episode - Everest Group (Riverside),2026-09,Yes,,Not found,,2 queries: no relevant results; very common name
-Yugal Joshi,Everest Group,Remote episode - Everest Group (Riverside),2026-09,,,Not found,,2 queries: no Work Reborn/Lenovo mention; Everest bio at everestgrp.com/team/yugal-joshi
-Dipak Prasad,Lenovo,Gartner IT Symposium/Xpo NA - Orlando,2026-10,Yes,,Not found,,"2 queries (Work Reborn; Lenovo linkedin podcast Gartner); no relevant results, only unrelated namesakes"
-Rahul Chintala,SAP,Gartner IT Symposium/Xpo NA - Orlando,2026-10,,,Not found,,1 query; no mention of name
-Maria Bracho,Red Hat,Gartner IT Symposium/Xpo NA - Orlando,2026-10,,,Not found,,"1 query; only Red Hat author page (CTO Americas) surfaced, no Work Reborn post"
-Jordan Byrd,IBM,Gartner IT Symposium/Xpo NA - Orlando,2026-10,,,Not found,,1 query; no mention of name
-Robin Bell,Las Vegas Sands (lvs1.com),Gartner IT Symposium/Xpo NA - Orlando,2026-10,,,Not found,,"1 query; common name, no relevant results"
-Alex Alvord,Nutanix,Gartner IT Symposium/Xpo NA - Orlando,2026-10,,,Not found,,"1 query; only an unrelated Disruption/Interruption podcast episode (Alexander Alvord, Nutanix) surfaced"
-Tiffany Loo,ElevenLabs,Gartner IT Symposium/Xpo NA - Orlando,2026-10,,,Not found,,1 query; no mention of name
-Rugved (Sanjay) Chavan,,Gartner IT Symposium/Xpo NA - Orlando,2026-10,,,Not found,,1 attempt only (no company on record); no mention of name
-James Ilari,Alectra Utilities,Gartner IT Symposium/Xpo NA - Orlando,2026-10,,,Not found,,1 query; no mention of name
-Shapor Naghibzadeh,QueryStory.ai,Gartner IT Symposium/Xpo NA - Orlando,2026-10,,,Not found,,"1 query; only QueryStory funding news (CEO) surfaced, no Lenovo/Work Reborn post"
-Nick Granado,QueryStory.ai,Gartner IT Symposium/Xpo NA - Orlando,2026-10,,,Not found,,1 query; no mention of name
-Ericc Diaz,Teachers' Retirement System of the City of New York (trs.nyc.ny.us),Gartner IT Symposium/Xpo NA - Orlando,2026-10,,,Not found,,"2 queries; no LinkedIn post found. Note: an earlier Work Reborn episode with him (Chief AI Officer, TRS NYC; host Rita Richa) is listed on Audible/sebae, dated ~Feb 9 2026 - not a LinkedIn post"
-Kamlesh Chaudhary,OneAmerica,Gartner IT Symposium/Xpo NA - Orlando,2026-10,,,Not found,,1 query; no mention of name
-Tim Lehto,USI (usiglobal.com),Gartner IT Symposium/Xpo NA - Orlando,2026-10,,,Not found,,1 query; no mention of name
-Curtis Thomas,Atlantic Union Bank,Gartner IT Symposium/Xpo NA - Orlando,2026-10,,,Not found,,1 query; no mention of name
-Stuart Scarborough,NISA (nisa.com),Gartner IT Symposium/Xpo NA - Orlando,2026-10,,,Not found,,2 queries (name+Work Reborn; name+NISA+Lenovo linkedin); no relevant results
-Melanie Prevost,Vinson & Elkins (velaw.com),Gartner IT Symposium/Xpo NA - Orlando,2026-10,,,Not found,,"2 queries; only surfaced legaltech/ILTA speaker bios (Sr. Director Infrastructure & Technical Support, V&E); no Work Reborn post"
-JJ Liu,pancapmgmt.com (company name not stated),Gartner IT Symposium/Xpo NA - Orlando,2026-10,,,Not found,,1 query; name common/ambiguous and company unknown
-Edwin Victorphilominraj,SRP (srpnet.com),Gartner IT Symposium/Xpo NA - Orlando,2026-10,,,Not found,,1 query (name+Lenovo podcast); no results naming him
-Ting Fan,RCU (rcu.org),Gartner IT Symposium/Xpo NA - Orlando,2026-10,,,Not found,,1 query; ambiguous name; no relevant results
-Pavan Vankadaru,SPX,Gartner IT Symposium/Xpo NA - Orlando,2026-10,,,Not found,,2 queries (name+SPX+Lenovo podcast; name+linkedin); no profile or post surfaced
-Sasi Sivadasan,Driscoll's,Gartner IT Symposium/Xpo NA - Orlando,2026-10,,,Not found,,2 queries; no results naming him
-Chuck Griffith,slc.us.com (company name not stated),Gartner IT Symposium/Xpo NA - Orlando,2026-10,,,Not found,,1 query; company unknown; no relevant results
-Mike Sylofski,NERIC (neric.org),Gartner IT Symposium/Xpo NA - Orlando,2026-10,,,Not found,,1 query; only a NYSCATE conference bio surfaced; no Work Reborn post
-Kavita Kanwar,Teachers' Retirement System of the City of New York (trs.nyc.ny.us),Gartner IT Symposium/Xpo NA - Orlando,2026-10,,,Not found,,1 query; no results naming her
-Andrew McMannis,Workday,Gartner IT Symposium/Xpo NA - Orlando,2026-10,,,Not found,,"1 query; surfaced Chime enterprise author bio (Sr. Principal, Strategic Customer Engagement & AI Strategy, Workday); no Work Reborn post"
-Shekar Ramanathan,Atlantic Health,Gartner IT Symposium/Xpo NA - Orlando,2026-10,,,Not found,,1 query; surfaced Becker's podcast appearances (Exec Dir Digital Transformation) but no Lenovo/Work Reborn post
-Christopher (surname not given),ALTR (altr.com),Gartner IT Symposium/Xpo NA - Orlando,2026-10,,,Not found,,No surname; one attempt (ALTR Christopher Lenovo Work Reborn); too ambiguous
-Laurens de Rooij,Velox Consilium,Gartner IT Symposium/Xpo EMEA - Barcelona,2026-11,,https://www.linkedin.com/in/laurens-de-rooij,Not found,,"2 queries; Barcelona Nov 2026 event (not Orlando); profile URL from input batch, not surfaced by search"
-Vivek Jindgar,,Gartner IT Symposium/Xpo EMEA - Barcelona,2026-11,,,Not found,,"No indexed posts or profile found; recorded Nov 9-12 2026, posts may not be indexed yet"
-Rob Shaw,Mott MacDonald (mottmac.com),Gartner IT Symposium/Xpo EMEA - Barcelona,2026-11,,,Not found,,"No indexed posts found; recorded Nov 2026, posts may not be indexed yet"
-Sahel Albeitar,Housing Bank for Trade & Finance (hbtf.com.jo),Gartner IT Symposium/Xpo EMEA - Barcelona,2026-11,,,Not found,,No indexed posts or profile found
-Otte Jaarsma,Belastingdienst (Dutch Tax Administration),Gartner IT Symposium/Xpo EMEA - Barcelona,2026-11,,,Not found,,No indexed posts or profile found
-Jubilee Kar,TGW Group,Gartner IT Symposium/Xpo EMEA - Barcelona,2026-11,,,Not found,,No indexed posts or profile found
-Carey F. (surname not given),DIDWW,Gartner IT Symposium/Xpo EMEA - Barcelona,2026-11,,,Not found,,"Surname unknown; searched DIDWW + Lenovo/Work Reborn, nothing found"
-Christopher (surname not given),Nedbank (nedbank.co.uk),Gartner IT Symposium/Xpo EMEA - Barcelona,2026-11,,,Not found,,No surname; one attempt (ALTR Christopher Lenovo Work Reborn); too ambiguous
+Guest,Company,Source,Event recorded,Episode published (Apple),Lenovo employee,LinkedIn profile,Work Reborn post found?,Post link,Notes
+Jaymes Davis,Kasm Technologies,Email/calendar,Gartner Digital Workplace Summit NA - San Diego,,,,Not found,,"No LinkedIn post surfaced. Podcastrepublic listing shows episode 'AI Can Do Far More Than You're Asking It To | Jaymes Davis, Kasm Technologies' (~Aug 3, 2026)."
+Joshua LeBlanc-Shulman,,Email/calendar,Gartner Digital Workplace Summit NA - San Diego,,,,Not found,,2 queries; no results mention this name at all.
+Christian Lambert,Vivint,Email/calendar,Gartner Digital Workplace Summit NA - San Diego,,,,Not found,,"No LinkedIn post surfaced. Episode listing 'AI Adoption Starts With Fixing Everyday Workflow Friction' (Vivint, ~Aug 7, 2026)."
+Darren H.,,Email/calendar,Gartner Digital Workplace Summit NA - San Diego,,,,Not found,,Surname not given; one attempt only; ambiguous. Audio-only guest.
+Mike (surname not given),,Email/calendar,Gartner Digital Workplace Summit NA - San Diego,,,,Not found,,Surname not given; not searched individually beyond general queries; too ambiguous.
+Tiago Da Costa Silva,Lenovo,Email/calendar,Gartner Digital Workplace Summit NA - San Diego; Gartner IT Symposium/Xpo NA - Orlando,,Yes,,Not found,,No LinkedIn post surfaced. Lenovo Work Reborn series page has caption 'Tiago Da Costa Silva in the Lenovo Studio'. Possible aggregator profile 'Tiago D.' (village.ai) unconfirmed.
+Thilo Bayerlander,Lenovo,Email/calendar,Gartner Digital Workplace Summit EMEA - London,,Yes,,Not found,,"No LinkedIn post surfaced. Multiple episodes exist (Jun 2025, Nov 2025, 'AI ROI Needs a Vision' ~Aug 3, 2026); YouTube https://www.youtube.com/watch?v=nUu5AlEgs_s (2025)."
+David Rabin,Lenovo,Email/calendar,Gartner Digital Workplace Summit EMEA - London,,Yes,,Not found,,"No LinkedIn post surfaced. Episode 'AI Experimentation Is Over | David Rabin, Lenovo' (~Aug 2026) on podcastrepublic."
+Rakshit (surname not given),Lenovo,Email/calendar,Gartner Digital Workplace Summit EMEA - London; Gartner IT Symposium/Xpo EMEA - Barcelona,,Yes,https://www.linkedin.com/in/rakshit-ghura-1297786/,Yes,https://www.linkedin.com/in/rakshit-ghura-1297786/,"Assumed = Rakshit Ghura (VP & GM Lenovo DWS). Profile snippet shows a post on simplicity vs personalization in the digital workplace, saying it was explored on a Work Reborn podcast with episode link (paraphrased; no verbatim snippet). Date conflicting in metadata (structured 2026-10-13 vs '3w'/49 days) so left blank. Post URL itself not surfaced."
+Paul Birkett,Ricoh,Email/calendar,Gartner Digital Workplace Summit EMEA - London,,,,Not found,,"No LinkedIn post surfaced. Episode 'AI Governance Is a Business Survival Issue | Paul Birkett, Ricoh' (~Aug 12, 2026)."
+Daniel Langton,Microsoft,Email/calendar,Gartner Digital Workplace Summit EMEA - London,,,,Not found,,"No LinkedIn post surfaced. Episode 'The AI Marathon Requires Workforce Enablement at Scale | Daniel Langton, Microsoft' (Aug 12, 2026)."
+Keith Howell,Ricoh,Email/calendar,Gartner Digital Workplace Summit EMEA - London,,,,Not found,,"No LinkedIn post surfaced. Episode 'AI Adoption Depends on Change Management | Keith Howell, Ricoh' (Aug 17, 2026)."
+Tal Klein,Lakeside Software,Email/calendar,Gartner Digital Workplace Summit EMEA - London; Gartner IT Symposium/Xpo EMEA - Barcelona,,,,Not found,,"3 queries incl. extended; no LinkedIn post surfaced. Episodes: 'The Frictionless Workplace' (May 15, 2026) and 'You Can't Say No to AI Anymore' (~Aug 14, 2026) on buzzsprout."
+Ole Bülow,Egiss,Email/calendar,Gartner Digital Workplace Summit EMEA - London,,,,Not found,,"No LinkedIn post surfaced. Episode 'AI Fitness Will Define the Future Workforce' (Egiss, late Aug 2026)."
+Johan Skånberg,Camfil,Email/calendar,Gartner Digital Workplace Summit EMEA - London,,,,Not found,,No results mention this name.
+Scott Beasley,NFU Mutual,Email/calendar,Gartner Digital Workplace Summit EMEA - London,,,,Not found,,"No LinkedIn post surfaced. Episode 'AI Governance Works When Risk Teams Join the Build | Scott Beasley, NFU Mutual' (Aug 28, 2026)."
+Vikas Singh,CBRE,Email/calendar,Gartner Digital Workplace Summit EMEA - London,,,,Not found,,"No LinkedIn post surfaced. Episode 'AI Literacy Will Define Enterprise Readiness' (CBRE, ~Sep 2, 2026)."
+Ed Metcalf,Absolute Security,Email/calendar,Gartner Security & Risk Mgmt Summit - National Harbor MD,,,https://www.linkedin.com/in/edmetcalf/,Not found,,"Episode 'Endpoint Resilience Starts Below the OS with Ed Metcalf, Absolute Security' (Jun 12, 2026) listed on podcastrepublic.net; no LinkedIn post about it surfaced. Profile snippet shows Absolute posts only."
+Dan (surname not given),Lenovo (likely),Email/calendar,Gartner Security & Risk Mgmt Summit - National Harbor MD,,Yes,,Not found,,No surname; one combined search attempt (Ed Metcalf/Absolute/TraceLock); too ambiguous.
+Monica Grace,Microsoft,Email/calendar,Gartner Security & Risk Mgmt Summit - National Harbor MD,,,,Not found,,"Episode 'AI Guardrails Should Enable Innovation' (Sep 4, 2026) per podcastrepublic.net; no LinkedIn post found."
+Clark Lovrien,Absolute Security,Email/calendar,Gartner Security & Risk Mgmt Summit - National Harbor MD,,,https://www.linkedin.com/in/clark-lovrien-6031561/,Not found,,"Episode 'AI Risk Demands Endpoint Resilience' (Aug 12, 2026) per podcastrepublic.net; profile activity shows Absolute reshares but no Work Reborn post."
+Jai Arun,IBM,Email/calendar,Gartner Security & Risk Mgmt Summit - National Harbor MD,,,https://www.linkedin.com/in/jsarun/,Not found,,"Episode dated Sep 7, 2026 per podcastrepublic.net; LinkedIn activity mentions an unnamed podcast (AI/IBM quantum demo) - not confirmed as Work Reborn."
+Chandan Nuckched,Alera Group,Email/calendar,Gartner Security & Risk Mgmt Summit - National Harbor MD,,,https://www.linkedin.com/in/chandannuckched/,Not found,,"Episode 'The Data Risk Behind Unmanaged AI Adoption' (Sep 9, 2026) per podcastrepublic.net; profile match uncertain (shows HomeServe history)."
+Betty Greenberger,DTCC,Email/calendar,Gartner Security & Risk Mgmt Summit - National Harbor MD,,,https://www.linkedin.com/in/betty-greenberger-134a756/,Not found,,"Episode 'The Human-in-the-Loop Problem Leaders Can't Ignore | Betty, DTCC' (Sep 11, 2026) per podcastrepublic.net; snippets mention her attending 2026 Gartner SRM with DTCC colleagues but no Work Reborn post."
+Karthik Balasubramanian,CoreStack,Email/calendar,Gartner Security & Risk Mgmt Summit - National Harbor MD,,,,Not found,,"Episode 'Agentic AI Starts With Identity and Access' (Sep 14, 2026) per podcastrepublic.net; common name, profile not confirmed."
+Kevin Greene,BeyondTrust,Email/calendar,Gartner Security & Risk Mgmt Summit - National Harbor MD,,,,Not found,,"Episode 'AI Needs Use Cases Before It Delivers ROI' (Sep 18, 2026) per podcastrepublic.net; may appear as Kevin E. Greene on LinkedIn; profile not confirmed."
+Chandan Kochhar,,Email/calendar,Gartner Security & Risk Mgmt Summit - National Harbor MD,,,,Not found,,"Episode 'Start With the Outcome Before Scaling AI' (Sep 21, 2026) per podcastrepublic.net; company unknown."
+Jennifer Swann,,Email/calendar,Gartner Security & Risk Mgmt Summit - National Harbor MD,,,,Not found,,No episode or post surfaced; only unrelated same-name profiles.
+Rich Dedmon,Big River Steel (per profile snippet),Email/calendar,Gartner Security & Risk Mgmt Summit - National Harbor MD,,,https://www.linkedin.com/in/richdedmon/,Not found,,No episode listing or post surfaced; profile is IT/cybersecurity leader.
+Sam Friedman,,Email/calendar,Gartner Security & Risk Mgmt Summit - National Harbor MD,,,,Not found,,No episode or post surfaced.
+David Etim,,Email/calendar,Gartner Security & Risk Mgmt Summit - National Harbor MD,,,,Not found,,No episode or post surfaced.
+Wayne Kool,,Email/calendar,Gartner Security & Risk Mgmt Summit - National Harbor MD,,,,Not found,,2 queries (Work Reborn; Lenovo podcast linkedin): no relevant results
+David Tsang,,Email/calendar,Gartner Security & Risk Mgmt Summit - National Harbor MD,,,,Not found,,2 queries: no relevant results; common name
+Cory Missimore,,Email/calendar,Gartner Security & Risk Mgmt Summit - National Harbor MD,,,,Not found,,2 queries: no relevant results
+Jacob Bushnell,,Email/calendar,Gartner Security & Risk Mgmt Summit - National Harbor MD,,,,Not found,,2 queries: no relevant results
+Blaze Nowikowski,,Email/calendar,Gartner Security & Risk Mgmt Summit - National Harbor MD,,,,Not found,,1 query: no relevant results
+Matt Tower,,Email/calendar,Gartner Security & Risk Mgmt Summit - National Harbor MD,,,,Not found,,1 query: no relevant results
+Pamela Nicolary,,Email/calendar,Gartner Security & Risk Mgmt Summit - National Harbor MD,,,,Not found,,1 query: no relevant results
+Nicholas Morpus,,Email/calendar,Gartner Security & Risk Mgmt Summit - National Harbor MD,,,,Not found,,1 query: no relevant results
+Shemaine Mensah,,Email/calendar,Gartner Security & Risk Mgmt Summit - National Harbor MD,,,,Not found,,1 query: no relevant results
+Kaivalya Gorla,,Email/calendar,Gartner Security & Risk Mgmt Summit - National Harbor MD,,,,Not found,,1 query: no relevant results
+Kufre Akpaidem,,Email/calendar,Gartner Security & Risk Mgmt Summit - National Harbor MD,,,,Not found,,1 query: no relevant results
+Mudit Sinha,Lineaje,Email/calendar,Gartner Security & Risk Mgmt Summit - National Harbor MD,,,https://www.linkedin.com/in/muditsinha01/,Not found,,"3 queries: no LinkedIn post surfaced. Episode confirmed on podcastrepublic.net/podcast/1807393170: 'Security for AI Matters as Much as AI for Security | Mudit Sinha, Lineaje' (dated early July 2026; snippets gave Jul 6 and Jul 8)"
+Saurabh Sharma,Lenovo,Email/calendar,Remote episode - Everest Group (Riverside),,Yes,,Not found,,2 queries: no relevant results; very common name
+Yugal Joshi,Everest Group,Email/calendar,Remote episode - Everest Group (Riverside),,,,Not found,,2 queries: no Work Reborn/Lenovo mention; Everest bio at everestgrp.com/team/yugal-joshi
+Dipak Prasad,Lenovo,Email/calendar,Gartner IT Symposium/Xpo NA - Orlando,,Yes,,Not found,,"2 queries (Work Reborn; Lenovo linkedin podcast Gartner); no relevant results, only unrelated namesakes"
+Rahul Chintala,SAP,Email/calendar,Gartner IT Symposium/Xpo NA - Orlando,,,,Not found,,1 query; no mention of name
+Maria Bracho,Red Hat,Email/calendar,Gartner IT Symposium/Xpo NA - Orlando,,,,Not found,,"1 query; only Red Hat author page (CTO Americas) surfaced, no Work Reborn post"
+Jordan Byrd,IBM,Email/calendar,Gartner IT Symposium/Xpo NA - Orlando,,,,Not found,,1 query; no mention of name
+Robin Bell,Las Vegas Sands (lvs1.com),Email/calendar,Gartner IT Symposium/Xpo NA - Orlando,,,,Not found,,"1 query; common name, no relevant results"
+Alex Alvord,Nutanix,Email/calendar,Gartner IT Symposium/Xpo NA - Orlando,,,,Not found,,"1 query; only an unrelated Disruption/Interruption podcast episode (Alexander Alvord, Nutanix) surfaced"
+Tiffany Loo,ElevenLabs,Email/calendar,Gartner IT Symposium/Xpo NA - Orlando,,,,Not found,,1 query; no mention of name
+Rugved (Sanjay) Chavan,,Email/calendar,Gartner IT Symposium/Xpo NA - Orlando,,,,Not found,,1 attempt only (no company on record); no mention of name
+James Ilari,Alectra Utilities,Email/calendar,Gartner IT Symposium/Xpo NA - Orlando,,,,Not found,,1 query; no mention of name
+Shapor Naghibzadeh,QueryStory.ai,Email/calendar,Gartner IT Symposium/Xpo NA - Orlando,,,,Not found,,"1 query; only QueryStory funding news (CEO) surfaced, no Lenovo/Work Reborn post"
+Nick Granado,QueryStory.ai,Email/calendar,Gartner IT Symposium/Xpo NA - Orlando,,,,Not found,,1 query; no mention of name
+Ericc Diaz,Teachers' Retirement System of the City of New York (trs.nyc.ny.us),Email/calendar,Gartner IT Symposium/Xpo NA - Orlando,,,,Not found,,"2 queries; no LinkedIn post found. Note: an earlier Work Reborn episode with him (Chief AI Officer, TRS NYC; host Rita Richa) is listed on Audible/sebae, dated ~Feb 9 2026 - not a LinkedIn post"
+Kamlesh Chaudhary,OneAmerica,Email/calendar,Gartner IT Symposium/Xpo NA - Orlando,,,,Not found,,1 query; no mention of name
+Tim Lehto,USI (usiglobal.com),Email/calendar,Gartner IT Symposium/Xpo NA - Orlando,,,,Not found,,1 query; no mention of name
+Curtis Thomas,Atlantic Union Bank,Email/calendar,Gartner IT Symposium/Xpo NA - Orlando,,,,Not found,,1 query; no mention of name
+Stuart Scarborough,NISA (nisa.com),Email/calendar,Gartner IT Symposium/Xpo NA - Orlando,,,,Not found,,2 queries (name+Work Reborn; name+NISA+Lenovo linkedin); no relevant results
+Melanie Prevost,Vinson & Elkins (velaw.com),Email/calendar,Gartner IT Symposium/Xpo NA - Orlando,,,,Not found,,"2 queries; only surfaced legaltech/ILTA speaker bios (Sr. Director Infrastructure & Technical Support, V&E); no Work Reborn post"
+JJ Liu,pancapmgmt.com (company name not stated),Email/calendar,Gartner IT Symposium/Xpo NA - Orlando,,,,Not found,,1 query; name common/ambiguous and company unknown
+Edwin Victorphilominraj,SRP (srpnet.com),Email/calendar,Gartner IT Symposium/Xpo NA - Orlando,,,,Not found,,1 query (name+Lenovo podcast); no results naming him
+Ting Fan,RCU (rcu.org),Email/calendar,Gartner IT Symposium/Xpo NA - Orlando,,,,Not found,,1 query; ambiguous name; no relevant results
+Pavan Vankadaru,SPX,Email/calendar,Gartner IT Symposium/Xpo NA - Orlando,,,,Not found,,2 queries (name+SPX+Lenovo podcast; name+linkedin); no profile or post surfaced
+Sasi Sivadasan,Driscoll's,Email/calendar,Gartner IT Symposium/Xpo NA - Orlando,,,,Not found,,2 queries; no results naming him
+Chuck Griffith,slc.us.com (company name not stated),Email/calendar,Gartner IT Symposium/Xpo NA - Orlando,,,,Not found,,1 query; company unknown; no relevant results
+Mike Sylofski,NERIC (neric.org),Email/calendar,Gartner IT Symposium/Xpo NA - Orlando,,,,Not found,,1 query; only a NYSCATE conference bio surfaced; no Work Reborn post
+Kavita Kanwar,Teachers' Retirement System of the City of New York (trs.nyc.ny.us),Email/calendar,Gartner IT Symposium/Xpo NA - Orlando,,,,Not found,,1 query; no results naming her
+Andrew McMannis,Workday,Email/calendar,Gartner IT Symposium/Xpo NA - Orlando,,,,Not found,,"1 query; surfaced Chime enterprise author bio (Sr. Principal, Strategic Customer Engagement & AI Strategy, Workday); no Work Reborn post"
+Shekar Ramanathan,Atlantic Health,Email/calendar,Gartner IT Symposium/Xpo NA - Orlando,,,,Not found,,1 query; surfaced Becker's podcast appearances (Exec Dir Digital Transformation) but no Lenovo/Work Reborn post
+Christopher (surname not given),ALTR (altr.com),Email/calendar,Gartner IT Symposium/Xpo NA - Orlando,,,,Not found,,No surname; one attempt (ALTR Christopher Lenovo Work Reborn); too ambiguous
+Laurens de Rooij,Velox Consilium,Email/calendar,Gartner IT Symposium/Xpo EMEA - Barcelona,,,https://www.linkedin.com/in/laurens-de-rooij,Not found,,"2 queries; Barcelona Nov 2026 event (not Orlando); profile URL from input batch, not surfaced by search"
+Vivek Jindgar,,Email/calendar,Gartner IT Symposium/Xpo EMEA - Barcelona,,,,Not found,,"No indexed posts or profile found; recorded Nov 9-12 2026, posts may not be indexed yet"
+Rob Shaw,Mott MacDonald (mottmac.com),Email/calendar,Gartner IT Symposium/Xpo EMEA - Barcelona,,,,Not found,,"No indexed posts found; recorded Nov 2026, posts may not be indexed yet"
+Sahel Albeitar,Housing Bank for Trade & Finance (hbtf.com.jo),Email/calendar,Gartner IT Symposium/Xpo EMEA - Barcelona,,,,Not found,,No indexed posts or profile found
+Otte Jaarsma,Belastingdienst (Dutch Tax Administration),Email/calendar,Gartner IT Symposium/Xpo EMEA - Barcelona,,,,Not found,,No indexed posts or profile found
+Jubilee Kar,TGW Group,Email/calendar,Gartner IT Symposium/Xpo EMEA - Barcelona,,,,Not found,,No indexed posts or profile found
+Carey F. (surname not given),DIDWW,Email/calendar,Gartner IT Symposium/Xpo EMEA - Barcelona,,,,Not found,,"Surname unknown; searched DIDWW + Lenovo/Work Reborn, nothing found"
+Christopher (surname not given),Nedbank (nedbank.co.uk),Email/calendar,Gartner IT Symposium/Xpo EMEA - Barcelona,,,,Not found,,No surname; one attempt (ALTR Christopher Lenovo Work Reborn); too ambiguous
+Mark Gurevich,Cybex,Apple Podcasts,,2026-01-02,,https://www.linkedin.com/in/mark-gurevich-/,Not found,,"No LinkedIn post found; profile only (Head of Infrastructure & Security, CYBEX)."
+Slawomir Prokop,CRH,Apple Podcasts,,2026-01-03,,https://www.linkedin.com/in/sprokop/,Not found,,No post found; profile only.
+Djeakandane Govindane,Unknown (Stockholm area),Apple Podcasts,,2026-01-04,,,Not found,,Company not in title; no post found.
+Pradeep Brahmanlapally,DHL Express (logistics),Apple Podcasts,,2026-01-05,,https://nl.linkedin.com/in/pradeepbrahmanla,Not found,,Company inferred from LinkedIn profile; no post found.
+Lyra Fazliogullari,SentinelOne,Apple Podcasts,,2026-01-06,,,Not found,,No post found.
+Mark Phillips,UK Government education sector (GRC Director),Apple Podcasts,,2026-01-07,,,Not found,,Company not in title (Buzzsprout: UK Gov education sector); no post found.
+Ricky Arora,Liberty Global,Apple Podcasts,,2026-01-08,,https://www.linkedin.com/in/ricky-arora-profile/,Not found,,No post found; profile only.
+Alexander Wardlaw,Cadent Gas Limited,Apple Podcasts,,2026-01-09,,,Not found,,No post found.
+David Vestal,Lenovo,Apple Podcasts,,2026-01-12,Yes,https://ar.linkedin.com/in/davidrvestal/,Not found,,"Snippets show Vestal posts about Work Reborn podcast activation at Gartner Security & Risk Summit, but not this episode; date unclear. No post URL seen."
+Abhishek Kumar,Catalyst,Apple Podcasts,,2026-01-14,,,Not found,,No post found.
+Brian Pendleton,Navy Federal Credit Union,Apple Podcasts,,2026-01-15,,https://www.linkedin.com/in/brian-pendleton-778baaa/,Not found,,No post found; profile only.
+Chris Crocco,Splunk,Apple Podcasts,,2026-01-16,,,Not found,,No post found.
+Jimi Li,ALM Global,Apple Podcasts,,2026-01-19,,https://www.linkedin.com/in/jimi-li/,Not found,,"Snippet of a Steve Taplin (Sonatafy) post says Lenovo released full conversation for Work Reborn series; no URL or date seen, authorship unclear."
+Jason Granat,Wish Farms,Apple Podcasts,,2026-01-20,,https://www.linkedin.com/in/jasongranat/,Not found (2025 post only),,"Profile snippet shows his post thanking Lenovo & Rita Richa re Work Reborn (AI/sustainability), but metadata ~386 days old (~Oct 2025, before window). No post URL."
+Justin Ossai,AWS,Apple Podcasts,,2026-01-21,,,Not found,,No post found.
+Mark Lehew,SAP,Apple Podcasts,,2026-01-22,,,Not found,,No post found.
+Michael McGuinness,RAAH Technologies,Apple Podcasts,,2026-01-23,,https://www.linkedin.com/in/michael-mcguinness-0668a3120/,Not found,,No post found; profile only.
+Nitin Kamal,Tech Mahindra,Apple Podcasts,,2026-01-26,,https://www.linkedin.com/in/nitinkamal05/,Not found,,No Work Reborn post found (only Lenovo360 event post).
+Renata Marques,Natura,Apple Podcasts,,2026-01-28,,https://www.linkedin.com/in/ciorenatamarques/,Not found,,No post found.
+Shaun Stark,The Aleut Corporation,Apple Podcasts,,2026-01-29,,,Not found,,No post found.
+Suresh Mathew,Sedai,Apple Podcasts,,2026-01-30,,,Not found,,No Work Reborn post found.
+Patricia Wilkey,Lenovo,Apple Podcasts,,2026-02-03,Yes,https://www.linkedin.com/in/patricia-wilkey-53261/,Not found (2025 post only),,"Profile snippet shows her Work Reborn podcast post (AI tools, employee experience, full episode coming) dated Nov 2025, before window. No post URL."
+Alex Mitchell,Fleet,Apple Podcasts,,2026-02-04,,,Not found,,No post found.
+Britney Chandler,Mindbreeze,Apple Podcasts,,2026-02-05,,https://www.linkedin.com/in/britney-chandler-6a4b16208/,Not found,,No Work Reborn post found.
+Oscar Delgado,Casa Del Sol Tequila,Apple Podcasts,,2026-02-05,,,Not found,,No post found.
+Colin McIsaac,Lenovo,Apple Podcasts,,2026-02-06,Yes,,Not found,,No matching LinkedIn post found in search results
+Duval Dollar,Brandywine Realty Trust,Apple Podcasts,,2026-02-10,,,Not found,,No matching LinkedIn post found in search results
+Mike Dawisha,"Genesee County, Michigan",Apple Podcasts,,2026-02-17,,,Not found,,No matching LinkedIn post found in search results
+Dr. Justin T. Collier,Lenovo,Apple Podcasts,,2026-02-17,Yes,https://www.linkedin.com/in/justin-t-collier-md/,Not found,,No matching LinkedIn post found in search results
+Martin Reynolds,Harness,Apple Podcasts,,2026-02-17,,https://www.linkedin.com/in/martinreynolds/,Not found,,No matching LinkedIn post found in search results
+Oli Giordimaina,Lakeside Software,Apple Podcasts,,2026-02-18,,https://www.linkedin.com/in/oli-giordimaina-95130538/,Not found,,No matching LinkedIn post found in search results
+Sandeep Sawhney,,Apple Podcasts,,2026-02-18,,,Not found,,Company not in title
+Paul Robichaux,Keepit,Apple Podcasts,,2026-02-18,,,Not found,,No matching LinkedIn post found in search results
+Sravan Patharla,,Apple Podcasts,,2026-02-19,,,Not found,,Company not in title (MSP leader)
+Tamika Bass,GFT,Apple Podcasts,,2026-02-23,,,Not found,,No matching LinkedIn post found in search results
+Andie Appel,,Apple Podcasts,,2026-02-23,,,Not found,,Company not in title
+Chani Cordero,,Apple Podcasts,,2026-02-24,,,Not found,,"Company not in title (CIO; search snippets suggest Methodist Healthcare System, unverified)"
+Daniel Bresach,Lenovo,Apple Podcasts,,2026-02-25,Yes,,Not found,,Only seen in GES post thanking Work Reborn booth team (not about this episode)
+Howard Freedman,,Apple Podcasts,,2026-02-26,,,Not found,,Company not in title
+Joe Poyma,,Apple Podcasts,,2026-02-27,,,Not found,,Company not in title
+Kevin Cochrane,Vultr,Apple Podcasts,,2026-03-02,,https://www.linkedin.com/in/kevinvcochrane/,Not found,,No matching LinkedIn post found in search results
+Matthew Meyers,Lenovo,Apple Podcasts,,2026-03-03,Yes,,Not found,,No matching LinkedIn post found in search results
+Mike Schumacher,Lakeside Software,Apple Podcasts,,2026-03-04,,https://www.linkedin.com/in/mischumacher/,Tagged-by-other,https://www.linkedin.com/in/shrutismisra/,"Profile snippet shows #WorkRebornPodcast #Lenovo post on full episode with Rakshit Ghura and Schumacher; post date not shown, could be a different Schumacher/Ghura episode"
+Paula Crowell,Los Angeles County Sanitation District,Apple Podcasts,,2026-03-06,,,Not found,,No matching LinkedIn post found in search results
+Scott Lee,,Apple Podcasts,,2026-03-09,,,Not found,,Company not in title; common name
+Steve Brock,Avaya,Apple Podcasts,,2026-03-10,,,Not found,,No matching LinkedIn post found in search results
+Tat Chu,,Apple Podcasts,,2026-03-11,,,Not found,,Company not in title
+Steve Ferrigni,WSIB,Apple Podcasts,,2026-03-12,,https://www.linkedin.com/in/steve-ferrigni-1a0b815/,Not found,,No matching LinkedIn post found in search results
+Sean Iannuzzi,NewRocket,Apple Podcasts,,2026-03-13,,,Not found,,No matching LinkedIn post found in search results
+Prafull Khare,Radiant Digital,Apple Podcasts,,2026-04-01,,https://www.linkedin.com/in/prafull-khare/,Not found,,No matching LinkedIn post found in search results
+Myriam Cohen,Anima,Apple Podcasts,,2026-04-02,,,Not found,,
+Mica Ashmore,Alterman Electric,Apple Podcasts,,2026-04-03,,,Not found,,
+Kingsford Kyei,LADWP,Apple Podcasts,,2026-04-04,,https://www.linkedin.com/in/kingsford-kyei-85a21bb2/,Not found,,
+John Brooks,,Apple Podcasts,,2026-04-05,,,Not found,,Company not named in title (described as major insurance company)
+Imran,,Apple Podcasts,,2026-04-06,,,Not found,,First name only; biotech firm; one attempt
+David Vestal,Lenovo,Apple Podcasts,,2026-04-07,Yes,,Not found,,Lenovo employee behind Work Reborn series; no 2026 post URL found for this episode
+Charles Verhey,,Apple Podcasts,,2026-04-08,,,Not found,,Company not named (global software company)
+Avishay Cohen,Anima,Apple Podcasts,,2026-04-09,,https://www.linkedin.com/in/avishic/,Not found,,
+Alpamys Shurtabyev,Tengizchevroil,Apple Podcasts,,2026-05-11,,,Not found,,LinkedIn spelling may be Shurtabayev
+Fadi Khalil,Jordan Kuwait Bank,Apple Podcasts,,2026-05-12,,https://www.linkedin.com/in/fadinasifkhalil/,Yes,https://jo.linkedin.com/in/fadinasifkhalil,"Snippet on his LinkedIn profile: joined Lenovo in Spain for Work Reborn podcast, sustainable AI, thanked Rita Richa; post date not shown - verify in 2026 window. Colleague Dana Abu Zaid also posted about her own episode"
+Marcela Lycka Kubalakova,Deutsche Telekom IT Solutions Slovakia,Apple Podcasts,,2026-05-13,,,Not found,,
+Matt Clay,HBC,Apple Podcasts,,2026-05-14,,,Not found,,HBC ambiguous; no matching LinkedIn post found
+Veronique Roy,Héma-Québec,Apple Podcasts,,2026-05-16,,,Not found,,
+David Smith,Costain,Apple Podcasts,,2026-05-17,,,Not found,,
+Javvad Malik,,Apple Podcasts,,2026-05-18,,,Not found,,
+Paul Anthony Jones,,Apple Podcasts,,2026-05-19,,,Not found,,
+Suresh Deshpande,HCLTech,Apple Podcasts,,2026-05-20,,,Not found,,
+Bakul Banthia,Tessell,Apple Podcasts,,2026-05-21,,https://www.linkedin.com/in/bakulbanthia/,Not found,,
+Emil Spliid Skyttegaard,Implement Consulting Group,Apple Podcasts,,2026-05-22,,,Not found,,
+Evo Stefanov,Methodia,Apple Podcasts,,2026-05-23,,,Not found,,
+Kwang Leh Wong,RHB Bank,Apple Podcasts,,2026-05-24,,https://www.linkedin.com/in/kwang-leh-wong-97a72713/,Not found,,
+Phil Caley,Lenovo,Apple Podcasts,,2026-05-25,Yes,https://uk.linkedin.com/in/philcaleysusatinabilityproductmanager,Not found,,Lenovo employee; no Work Reborn post found
+Scott Crawford,,Apple Podcasts,,2026-05-26,,https://www.linkedin.com/in/scott-crawford-6508a26a/,Not found,,"Lenovo employee (per LinkedIn); profile snippet mentions earlier Work Reborn podcast in London on hyper-personalization - different episode, undated"
+Paul,,Apple Podcasts,,2026-05-27,,,Not found,,First name only; Deputy CTO (frontline policing); one attempt
+Steve Douho,Lionsville,Apple Podcasts,,2026-05-28,,,Not found,,
+Taha Yucel,Aselsan,Apple Podcasts,,2026-05-29,,,Not found,,Lenovo YouTube video of episode exists (gondola.cc mirror); no LinkedIn post found. Profile linkedin.com/in/tahayucel seen in results
+Thato Lehutso,,Apple Podcasts,,2026-05-30,,,Not found,,Company not named in title; no LinkedIn post found
+Amaury Martin,UKG,Apple Podcasts,,2026-05-31,,https://www.linkedin.com/in/amaurymartin1/,Not found,,Lenovo YouTube video Jul 2026 (mirror); no LinkedIn post found
+Christina Dinne,Siemens,Apple Podcasts,,2026-06-01,,,Not found,,Lenovo YouTube video Jul 2026 (mirror); no LinkedIn post found
+Greg Buckle,EDF Energy,Apple Podcasts,,2026-06-02,,,Not found,,No LinkedIn post found
+Joanna Tiffin,WIG,Apple Podcasts,,2026-06-03,,,Not found,,Lenovo YouTube video Jul 30 2026 (mirror); no LinkedIn post found
+Mollie Brentnall,Crawford & Company,Apple Podcasts,,2026-06-05,,,Not found,,Lenovo YouTube video Aug 2026 (mirror); no LinkedIn post found
+Omar Khokhar,Systal,Apple Podcasts,,2026-06-06,,,Not found,,Lenovo YouTube mirror exists; no LinkedIn post found
+Raj Patel,Holistic AI,Apple Podcasts,,2026-06-07,,,Not found,,No LinkedIn post found
+Sasa Ellen Wallace,South African National Defence Force,Apple Podcasts,,2026-06-08,,,Not found,,No LinkedIn post found
+Kelsey Ziser,InformationWeek,Apple Podcasts,,2026-07-08,,,Not found,,No LinkedIn post found
+Mike Schumacher,Lakeside Software,Apple Podcasts,,2026-07-10,,,Not found,,No LinkedIn post found for this episode
+Vikas Srivastava,UST,Apple Podcasts,,2026-07-13,,,Not found,,No LinkedIn post found
+Andrei Serban,Console,Apple Podcasts,,2026-07-15,,,Not found,,No LinkedIn post found
+Abhilash Shashidhara,Pure Storage,Apple Podcasts,,2026-07-17,,,Not found,,No LinkedIn post found
+Gavin Campbell,Amazon,Apple Podcasts,,2026-07-20,,,Not found,,No LinkedIn post found
+Rakshit Ghura,Lenovo,Apple Podcasts,,2026-07-29,Yes,https://www.linkedin.com/in/rakshit-ghura-1297786/,Not found,,Guest is Lenovo VP/GM DWS. Search snippet referenced a ~7-week-old LinkedIn post on Work Reborn podcast (simplicity vs personalization) but no post URL seen and not clearly this episode
+Wayne,Lawrence Livermore National Laboratory,Apple Podcasts,,2026-07-29,,,Not found,,First name only; one attempt; no LinkedIn post found
+Nicholas Williamson,Klöckner Pentaplast,Apple Podcasts,,2026-08-19,,,Not found,,No LinkedIn post found
+Sushant Suman,Expedia Group,Apple Podcasts,,2026-08-21,,,Not found,,No LinkedIn post found
+Betty,DTCC,Apple Podcasts,,2026-09-11,,,Not found,,First name only; one attempt; no LinkedIn post found
+Matthew Mudry,Alera Group,Apple Podcasts,,2026-10-02,,,Not found,,No LinkedIn post found
+David,NNSA,Apple Podcasts,,2026-10-05,,,Not found,,First name only; one attempt; no LinkedIn post found
+Darren H.,,Apple Podcasts,,2026-10-12,,,Not found,,"First name/initial only, no company; one attempt; no LinkedIn post found"
+David,DTCC,Apple Podcasts,,2026-10-16,,,Not found,,First name only; one attempt (combined DTCC search); no LinkedIn post found
